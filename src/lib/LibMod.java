@@ -10,6 +10,10 @@ import mindustry.mod.Mod;
 import mindustry.ui.dialogs.ResearchDialog;
 
 public class LibMod extends Mod {
+    public static String ModName = "heavy-industry";
+    public static String name(String add){
+        return ModName + "-" + add;
+    }
     public LibMod(){}
 
     @Override
