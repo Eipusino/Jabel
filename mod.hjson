@@ -1,8 +1,0 @@
-displayName: "Json Lib Mod"
-name: "LibMod"
-author: "Wisadell"
-main: "lib.LibMod"
-description: "啊？"
-version: 114514.0
-minGameVersion: 145
-java: true
